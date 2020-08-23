@@ -1,0 +1,2 @@
+# ccm
+Conventional Commit Manager
