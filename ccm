@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "wip(issue-123): 🚧 "
+
+read -r
