@@ -2,4 +2,6 @@
 
 Conventional Commit Manager
 
-## Overview
+## Install
+
+`sudo cp bin/ccm /usr/local/bin/`
