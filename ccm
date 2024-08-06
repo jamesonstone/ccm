@@ -16,5 +16,3 @@ print_commit_table() {
     echo -e "| \`chore\`     | Chores                   | Other changes that don't modify src or test files                                                           | 🔧     |"
     echo -e "| \`revert\`    | Reverts                  | Reverts a previous commit                                                                                   | 🗑     |\n"
 }
-
-
